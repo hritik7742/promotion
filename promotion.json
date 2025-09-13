@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-09-13T17:05:50.400Z",
+  "lastUpdated": "2025-09-13T17:24:27.121Z",
   "campaigns": [
     {
       "id": "blur-screen-promo-001",
@@ -58,6 +58,24 @@
     },
     {
       "id": "goodmoernih",
+      "active": true,
+      "title": "🚀 Try My New Productivity Extension!",
+      "description": "Boost your workflow with advanced screen management tools. Get 50% off for the first 100 users!",
+      "imageUrl": "https://picsum.photos/seed/picsum/200/300",
+      "ctaText": "Get 50% Off Now",
+      "ctaUrl": "https://chrome.google.com/webstore/detail/your-extension-id",
+      "targetExtensions": [],
+      "priority": 1,
+      "startDate": "2024-12-08T18:30:00.000Z",
+      "endDate": "2025-03-31T18:29:00.000Z",
+      "displayRules": {
+        "maxShowsPerDay": 1,
+        "dismissDuration": 86400000,
+        "showDelay": 5000
+      }
+    },
+    {
+      "id": "hellow-world",
       "active": true,
       "title": "🚀 Try My New Productivity Extension!",
       "description": "Boost your workflow with advanced screen management tools. Get 50% off for the first 100 users!",
