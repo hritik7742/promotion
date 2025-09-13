@@ -7,7 +7,7 @@
       "active": true,
       "title": "🚀 Try My New Productivity Extension!",
       "description": "Boost your workflow with advanced screen management tools. Get 50% off for the first 100 users!",
-      "imageUrl": "https://via.placeholder.com/300x200/667eea/ffffff?text=New+Extension",
+      "imageUrl": "https://picsum.photos/seed/picsum/200/300",
       "ctaText": "Get 50% Off Now",
       "ctaUrl": "https://chrome.google.com/webstore/detail/your-extension-id",
       "targetExtensions": [],
@@ -20,40 +20,8 @@
         "showDelay": 5000
       }
     },
-    {
-      "id": "blur-screen-promo-002",
-      "active": false,
-      "title": "🎯 Focus Mode Extension",
-      "description": "Block distracting websites and stay focused on what matters most.",
-      "imageUrl": "https://via.placeholder.com/300x200/764ba2/ffffff?text=Focus+Mode",
-      "ctaText": "Install Free",
-      "ctaUrl": "https://chrome.google.com/webstore/detail/focus-extension-id",
-      "targetExtensions": [],
-      "priority": 2,
-      "startDate": "2024-12-01T00:00:00Z",
-      "endDate": "2024-12-31T23:59:59Z",
-      "displayRules": {
-        "maxShowsPerDay": 2,
-        "dismissDuration": 43200000,
-        "showDelay": 3000
-      }
-    },
-    {
-      "id": "blur-screen-promo-003",
-      "active": true,
-      "title": "📊 Analytics Dashboard Pro",
-      "description": "Track your productivity metrics and optimize your daily workflow with detailed insights.",
-      "ctaText": "Try Free Trial",
-      "ctaUrl": "https://example.com/analytics-pro",
-      "targetExtensions": [],
-      "priority": 3,
-      "startDate": "2024-12-09T00:00:00Z",
-      "endDate": "2025-01-31T23:59:59Z",
-      "displayRules": {
-        "maxShowsPerDay": 1,
-        "dismissDuration": 172800000,
-        "showDelay": 8000
-      }
+
+ 
     }
   ]
 }
